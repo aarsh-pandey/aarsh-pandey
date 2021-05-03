@@ -11,5 +11,3 @@ Skills: Python, numpy, pandas, matplotlib, scikit-learn, JAVA, C/C++, SQL, Bash.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aarsh-pandey&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aarsh-pandey)  
-
-![Profile views](https://gpvc.arturio.dev/aarsh-pandey)  
